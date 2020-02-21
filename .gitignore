@@ -1,3 +1,11 @@
 .DS_store
 
 .idea/
+
+venv/
+
+__pycache__/
+
+database/toronto_listings.db
+
+logs/main.log
